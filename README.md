@@ -1,2 +1,3 @@
 # Chat-Room-Prototype
-JavaScript chat room based off of the ScaleDrone API
+JavaScript and HTML/CSS chat room based off of the ScaleDrone API
+In Progress...
